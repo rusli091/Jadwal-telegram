@@ -1,0 +1,123 @@
+2024-10-20T23:02:18.313Z - Delete message in /start: Call to 'deleteMessage' failed! (400: Bad Request: message to delete not found)
+GrammyError: Call to 'deleteMessage' failed! (400: Bad Request: message to delete not found)
+    at toGrammyError (/root/bot-jadwal/node_modules/grammy/out/core/error.js:47:12)
+    at ApiClient.callApi (/root/bot-jadwal/node_modules/grammy/out/core/client.js:90:48)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /root/bot-jadwal/index.js:109:3
+    at async /root/bot-jadwal/node_modules/grammy/out/composer.js:578:13
+    at async /root/bot-jadwal/node_modules/grammy/out/composer.js:62:13
+    at async /root/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+2024-10-20T23:02:20.806Z - Delete message in /jadwal: Call to 'deleteMessage' failed! (400: Bad Request: message to delete not found)
+GrammyError: Call to 'deleteMessage' failed! (400: Bad Request: message to delete not found)
+    at toGrammyError (/root/bot-jadwal/node_modules/grammy/out/core/error.js:47:12)
+    at ApiClient.callApi (/root/bot-jadwal/node_modules/grammy/out/core/client.js:90:48)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-10-22T03:27:14.772Z - Delete message in /start: Call to 'deleteMessage' failed! (400: Bad Request: group chat was upgraded to a supergroup chat)
+GrammyError: Call to 'deleteMessage' failed! (400: Bad Request: group chat was upgraded to a supergroup chat)
+    at toGrammyError (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:47:12)
+    at ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:90:48)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /root/botjadwal1/bot-jadwal/index.js:109:3
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:578:13
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:62:13
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+2024-10-22T03:27:15.022Z - Reply in /start: Call to 'sendMessage' failed! (400: Bad Request: group chat was upgraded to a supergroup chat)
+GrammyError: Call to 'sendMessage' failed! (400: Bad Request: group chat was upgraded to a supergroup chat)
+    at toGrammyError (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:47:12)
+    at ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:90:48)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /root/botjadwal1/bot-jadwal/index.js:110:3
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:578:13
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:62:13
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+2024-10-22T03:27:15.722Z - Delete message in /start: Call to 'deleteMessage' failed! (400: Bad Request: message to delete not found)
+GrammyError: Call to 'deleteMessage' failed! (400: Bad Request: message to delete not found)
+    at toGrammyError (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:47:12)
+    at ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:90:48)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /root/botjadwal1/bot-jadwal/index.js:109:3
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:578:13
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:62:13
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+2024-10-22T07:31:55.724Z - Delete message in /rules: Network request for 'deleteMessage' failed!
+HttpError: Network request for 'deleteMessage' failed!
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:85:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ApiClient.call (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:54:29)
+    at async ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:86:22)
+2024-10-22T16:55:05.128Z - Attempt 1 to send automatic message: Network request for 'sendMessage' failed!
+HttpError: Network request for 'sendMessage' failed!
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:85:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ApiClient.call (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:54:29)
+    at async ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:86:22)
+    at async sendMessageWithRetry (/root/botjadwal1/bot-jadwal/index.js:220:7)
+    at async Timeout.sendAutomaticMessage [as _onTimeout] (/root/botjadwal1/bot-jadwal/index.js:246:7)
+2024-10-23T06:13:43.329Z - Delete message in /rules: Network request for 'deleteMessage' failed!
+HttpError: Network request for 'deleteMessage' failed!
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:85:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ApiClient.call (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:54:29)
+    at async ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:86:22)
+2024-10-24T03:23:52.472Z - Attempt 1 to send automatic message: Network request for 'sendMessage' failed!
+HttpError: Network request for 'sendMessage' failed!
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:85:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ApiClient.call (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:54:29)
+    at async ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:86:22)
+    at async sendMessageWithRetry (/root/botjadwal1/bot-jadwal/index.js:220:7)
+    at async Timeout.sendAutomaticMessage [as _onTimeout] (/root/botjadwal1/bot-jadwal/index.js:246:7)
+2024-10-24T07:23:52.468Z - Attempt 1 to send automatic message: Network request for 'sendMessage' failed!
+HttpError: Network request for 'sendMessage' failed!
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:85:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ApiClient.call (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:54:29)
+    at async ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:86:22)
+    at async sendMessageWithRetry (/root/botjadwal1/bot-jadwal/index.js:220:7)
+    at async Timeout.sendAutomaticMessage [as _onTimeout] (/root/botjadwal1/bot-jadwal/index.js:246:7)
+2024-10-24T16:00:42.229Z - Delete message in /jadwal: Network request for 'deleteMessage' failed!
+HttpError: Network request for 'deleteMessage' failed!
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:85:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ApiClient.call (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:54:29)
+    at async ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:86:22)
+2024-10-26T03:23:52.595Z - Attempt 1 to send automatic message: Network request for 'sendMessage' failed!
+HttpError: Network request for 'sendMessage' failed!
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:85:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ApiClient.call (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:54:29)
+    at async ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:86:22)
+    at async sendMessageWithRetry (/root/botjadwal1/bot-jadwal/index.js:220:7)
+    at async Timeout.sendAutomaticMessage [as _onTimeout] (/root/botjadwal1/bot-jadwal/index.js:246:7)
+2024-10-26T11:23:52.625Z - Attempt 1 to send automatic message: Network request for 'sendMessage' failed!
+HttpError: Network request for 'sendMessage' failed!
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/error.js:85:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ApiClient.call (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:54:29)
+    at async ApiClient.callApi (/root/botjadwal1/bot-jadwal/node_modules/grammy/out/core/client.js:86:22)
+    at async sendMessageWithRetry (/root/botjadwal1/bot-jadwal/index.js:220:7)
+    at async Timeout.sendAutomaticMessage [as _onTimeout] (/root/botjadwal1/bot-jadwal/index.js:246:7)
+2024-10-27T12:15:51.894Z - Admin check in /addjadwal: Cannot read properties of undefined (reading 'getChatMember')
+TypeError: Cannot read properties of undefined (reading 'getChatMember')
+    at /root/botjadwal1/bot-jadwal/index.js:119:39
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:52:41
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:52:41
+    at /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:578:48
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:62:13
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:578:13
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:62:13
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
+    at async /root/botjadwal1/bot-jadwal/node_modules/grammy/out/composer.js:57:9
